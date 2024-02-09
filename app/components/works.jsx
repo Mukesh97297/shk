@@ -1,6 +1,7 @@
 import React from "react";
 import Image from "next/image";
 import Carousel2 from "./carousel";
+import Client from "./client";
 function Works() {
   return (
     <>
@@ -93,7 +94,7 @@ function Works() {
             alt=""
           />
         </div>
-        <div className=" w mx-auto max-w-[1200px]">
+        <div className=" w mx-auto max-w-[1200px] md:mt-0 mt-10">
           <div className="flex px-2 w-full bottom-0 flex-col items-center justify-center">
             <h1 className="text-5xl max-md:text-3xl font-atma font-bold">
               Our Features
@@ -186,6 +187,9 @@ function Works() {
                 (without the BS).
               </p>
             </div>
+            <div className=" md:!hidden">
+              <Client/>
+              </div>
             <div className=" max-md:flex-col   gap-10 md:gap-4 max-md:mt-10 mt-20 bg-[#FFEFED]  mx-auto hidden md:flex justify-between">
               <div className="bg-white flex flex-col text-center gap-3 md:gap-4 w-[90%] mx-auto p-4 lg:p-6 rounded-lg relative">
                 <div className="rounded-full bg-white md:w-20 md:h-20 h-14 w-14 flex items-center justify-center absolute shadow-base top-0 left-1/2 -translate-x-1/2 -translate-y-1/2 px-2">
@@ -299,7 +303,7 @@ function Works() {
           </div>
         </div>
       </div>
-      <div id="personalized" className="container mx-auto max-w-[1200px] mt-32">
+      <div id="personalized" className="container mx-auto max-w-[1200px] mt-32 md:mb-0 mb-10">
         <div className="flex max-md:flex-col px-2 items-center  gap-6 lg:gap-0">
           <div className="w-full flex items-start flex-col gap-6">
             <h1 className="text-5xl font-atma max-md:text-3xl leading-none font-extrabold">

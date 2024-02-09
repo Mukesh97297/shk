@@ -3,6 +3,7 @@ import Navbar from "./components/navbar";
 import Main from "./components/main";
 import Works from "./components/works";
 import Footer from "./components/footer";
+import Client from "./components/client";
 export default function Home() {
   return (
     <>
@@ -10,6 +11,7 @@ export default function Home() {
     <Main/>
     <Works/>
     <Footer/>
+     {/* <Client/> */}
     </>
   );
 }
