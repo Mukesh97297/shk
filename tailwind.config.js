@@ -16,6 +16,7 @@ module.exports = {
           'atma': ['Atma', 'sans-serif'],
           'dm-sans': ['"DM Sans"', 'sans-serif'],
       },
+      
     },
   },
   plugins: [],

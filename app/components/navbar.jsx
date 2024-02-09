@@ -3,6 +3,7 @@ import React from "react";
 import Image from "next/image";
 import { useState, useEffect, useRef } from "react";
 import Link from "next/link";
+
 function Navbar() {
     const [isOpen, setIsOpen] = useState(false);
   const [isDropdownOpen, setIsDropdownOpen] = useState(false);
@@ -44,6 +45,7 @@ function Navbar() {
                 alt="Your Company"
                 width={151}
                 height={45}
+                
               />
               
             </Link>
@@ -106,8 +108,7 @@ function Navbar() {
               <Link href="/">
                 <button
                   type="button"
-                  className="text-[#FFFFFF]  rounded-[30px] border bg-[#EF4D3C] border-solid w-[130px]  h-[47px] text-[16px] font-semibold font-atma" 
-                >
+                  className={`text-[#FFFFFF]  rounded-[30px] border bg-[#EF4D3C] border-solid w-[130px]  h-[47px] text-[16px] font-atma font-bold`}>
                   Meal Planer
                 </button>
               </Link>

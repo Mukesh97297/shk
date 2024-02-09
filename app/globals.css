@@ -3,29 +3,30 @@
 @tailwind utilities;
 
 
+
 @font-face {
     font-family: 'Atma';
-    src: url('/fonts/atma-regular.ttf') format('truetype');
-    /* Add other font formats if necessary */
+    src: url('/atma-regular.ttf') format('truetype');
+   
     font-weight: normal;
     font-style: normal;
   }
   @font-face {
     font-family: 'Atma';
-    src: url('/fonts/atma-bold.ttf') format('truetype');
+    src: url('/fonts/Atma-bold.ttf') format('truetype');
     font-weight: bold;
     font-style: normal;
   }
   @font-face {
     font-family: 'Atma';
     src: url('/fonts/atma-medium.ttf') format('truetype');
-    font-weight: 500; /* Medium weight */
+    font-weight: 500; 
     font-style: normal;
   }
   @font-face {
     font-family: 'Atma';
     src: url('/fonts/atma-semibold.ttf') format('truetype');
-    font-weight: 600; /* Semi-bold weight */
+    font-weight: 600;
     font-style: normal;
   }
   @font-face {
@@ -44,6 +45,7 @@
   @font-face {
     font-family: 'DM Sans';
     src: url('/fonts/dm-sans-medium.ttf') format('truetype');
-    font-weight: 500; /* Medium weight */
+    font-weight: 500; 
     font-style: normal;
   }
+  

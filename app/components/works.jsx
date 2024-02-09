@@ -310,7 +310,7 @@ function Works() {
               Receive Your <br />
               Personalized Meal Plan
             </h1>
-            <p className="text-[#4E4E4E] font-ds max-md:text-base text-base leading-[150%]">
+            <p className="text-[#4E4E4E] font-dm-sans max-md:text-base text-base leading-[150%]">
               Based on your {`school\s`} menu and your personal preferences,
               receive a weekly meal plan. This plan balances{`What's`} offered
               at school with additional meal suggestions to ensure nutritional

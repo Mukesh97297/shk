@@ -1,6 +1,7 @@
 import { Inter } from "next/font/google";
+import { Atma } from "next/font/google";
 import "./globals.css";
-
+const atma = Atma({subsets:["latin"],weight:['300','400','500','600','700'],display:'swap'})
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
@@ -11,7 +12,7 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <body className={inter.className}>{children}</body>
+      <body className={`${inter.className} ${atma.className}`}>{children}</body>
     </html>
   );
 }
