@@ -1,49 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,500&family=Roboto:wght@500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Atma:wght@300;400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Carter+One&display=swap");
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
 
 @font-face {
-    font-family: 'Atma';
-    src: url('/fonts/atma-regular.ttf') format('truetype');
-    /* Add other font formats if necessary */
-    font-weight: normal;
-    font-style: normal;
-  }
-  @font-face {
-    font-family: 'Atma';
-    src: url('/fonts/atma-bold.ttf') format('truetype');
-    font-weight: bold;
-    font-style: normal;
-  }
-  @font-face {
-    font-family: 'Atma';
-    src: url('/fonts/atma-medium.ttf') format('truetype');
-    font-weight: 500; /* Medium weight */
-    font-style: normal;
-  }
-  @font-face {
-    font-family: 'Atma';
-    src: url('/fonts/atma-semibold.ttf') format('truetype');
-    font-weight: 600; /* Semi-bold weight */
-    font-style: normal;
-  }
-  @font-face {
-    font-family: 'DM Sans';
-    src: url('/fonts/dm-sans-regular.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
-  }
-  
-  @font-face {
-    font-family: 'DM Sans';
-    src: url('/fonts/dm-sans-bold.ttf') format('truetype');
-    font-weight: bold;
-    font-style: normal;
-  }
-  @font-face {
-    font-family: 'DM Sans';
-    src: url('/fonts/dm-sans-medium.ttf') format('truetype');
-    font-weight: 500; /* Medium weight */
-    font-style: normal;
-  }
+  font-family: "Metropolis-regular";
+  src: url("/fonts/Metropolis/metropolis.regular.otf");
+}
+
+@font-face {
+  font-family: "Metropolis-Medium";
+  src: url("/fonts/Metropolis/Metropolis-Medium.otf");
+}
+
+@font-face {
+  font-family: "Metropolis-SemiBold";
+  src: url("/fonts/Metropolis/Metropolis-SemiBold.otf");
+}
+* {
+  scroll-behavior: smooth;
+}
+body {
+  font-size: 18px;
+}
