@@ -8,7 +8,7 @@
 
 
 
-@font-face {
+/* @font-face {
   font-family: "Metropolis-regular";
   src: url("/fonts/Metropolis/metropolis.regular.otf");
 }
@@ -21,7 +21,7 @@
 @font-face {
   font-family: "Metropolis-SemiBold";
   src: url("/fonts/Metropolis/Metropolis-SemiBold.otf");
-}
+} */
 * {
   scroll-behavior: smooth;
 }

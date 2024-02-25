@@ -42,7 +42,7 @@ const Client = () => {
             <p className=" max-md:text-lg text-xl leading-[30px] font-semibold font-atma">
               Mind-blowing Services
             </p>
-            <p className="font-dm-sans max-md:text-base leading-[32px] text-[#424242]">
+            <p className="font-ds max-md:text-base leading-[32px] text-[#424242]">
               Viverra vel vitae libero iaculis. Tellus vel volutpat sem sit
               egestas aliquam. Pharetra dictum volutpat non velit lorem vitae
               amet.
@@ -52,7 +52,7 @@ const Client = () => {
                 <h1 className="text-lg max-md:text-base leading-[32px] font-semibold font-atma">
                   Elezabeth Sarian
                 </h1>
-                <p className="text-[#424242] max-md:text-sm leading-[24px] mt-[5px] font-dm-sans text-sm">
+                <p className="text-[#424242] max-md:text-sm leading-[24px] mt-[5px] font-ds text-sm">
                   Student at University of Connecticut
                 </p>
               </div>
@@ -83,7 +83,7 @@ const Client = () => {
             <p className=" max-md:text-lg text-xl leading-[30px] font-semibold font-atma">
               Mind-blowing Services
             </p>
-            <p className="font-dm-sans max-md:text-base leading-[32px] text-[#424242]">
+            <p className="font-ds max-md:text-base leading-[32px] text-[#424242]">
               Viverra vel vitae libero iaculis. Tellus vel volutpat sem sit
               egestas aliquam. Pharetra dictum volutpat non velit lorem vitae
               amet.
@@ -93,7 +93,7 @@ const Client = () => {
                 <h1 className="text-lg max-md:text-base leading-[32px] font-semibold font-atma">
                   Elezabeth Sarian
                 </h1>
-                <p className="text-[#424242] max-md:text-sm leading-[24px] mt-[5px] font-dm-sans text-sm">
+                <p className="text-[#424242] max-md:text-sm leading-[24px] mt-[5px] font-ds text-sm">
                   Student at University of Connecticut
                 </p>
               </div>
@@ -124,7 +124,7 @@ const Client = () => {
             <p className=" max-md:text-lg text-xl leading-[30px] font-semibold font-atma">
               Mind-blowing Services
             </p>
-            <p className="font-dm-sans max-md:text-base leading-[32px] text-[#424242]">
+            <p className="font-ds max-md:text-base leading-[32px] text-[#424242]">
               Viverra vel vitae libero iaculis. Tellus vel volutpat sem sit
               egestas aliquam. Pharetra dictum volutpat non velit lorem vitae
               amet.
@@ -134,7 +134,7 @@ const Client = () => {
                 <h1 className="text-lg max-md:text-base leading-[32px] font-semibold font-atma">
                   Elezabeth Sarian
                 </h1>
-                <p className="text-[#424242] max-md:text-sm leading-[24px] mt-[5px] font-dm-sans text-sm">
+                <p className="text-[#424242] max-md:text-sm leading-[24px] mt-[5px] font-ds text-sm">
                   Student at University of Connecticut
                 </p>
               </div>

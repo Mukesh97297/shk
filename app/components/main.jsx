@@ -67,7 +67,7 @@ function Main() {
               Put your diet on <br />
               <span className="text-[#EF4D3C]">Autopilot</span>
             </h1>
-            <p className="max-w-[640px] max-md:max-w-[356px] max-md:text-base font-dm-sans text-center leading-[150%]">
+            <p className="max-w-[640px] max-md:max-w-[356px] max-md:text-base font-ds text-center leading-[150%]">
               Eat This Much creates personalized meal plans based on your food
               preferences, budget, and schedule. Reach your diet and nutritional
               goals with our calorie calculator, weekly meal plans, grocery
@@ -114,10 +114,10 @@ function Main() {
                     <input
                       type="text"
                       placeholder="600"
-                      className=" outline-none w-full max-md:text-sm font-dm-sans text-base leading-[110%]   text-black placeholder:text-[#7E7E7E]"
+                      className=" outline-none w-full max-md:text-sm font-ds text-base leading-[110%]   text-black placeholder:text-[#7E7E7E]"
                     />
                     <div className="flex  gap-3 pr-4 max-md:gap-0 items-center">
-                      <p className="font-dm-sans w-full max-md:text-xs pe-3 text-base leading-[110%]">
+                      <p className="font-ds w-full max-md:text-xs pe-3 text-base leading-[110%]">
                         Calories
                       </p>
                       <div className="flex cursor-pointer w-full gap-2 items-center">
@@ -127,7 +127,7 @@ function Main() {
                           height={24}
                           alt=""
                         />
-                        <p className="text-[#EF4D3C] flex gap-[1.5px] cursor-pointer text-base leading-[110%] max-md:text-[8px] font-dm-sans ">
+                        <p className="text-[#EF4D3C] flex gap-[1.5px] cursor-pointer text-base leading-[110%] max-md:text-[8px] font-ds ">
                           <span>Not</span>
                           <span>Sure?</span>
                         </p>
@@ -144,7 +144,7 @@ function Main() {
                       className="relative w-full cursor-pointer text-left max-md:p-1 py-[15px] px-4 border rounded-lg overflow-hidden border-[#BEBEBE]"
                       type="button"
                     >
-                      <span className="block truncate outline-none w-full  md:placeholder:text-lg max-sm:text-sm font-dm-sans font-medium rounded-lg text-[#7E7E7E] cursor-pointer">
+                      <span className="block truncate outline-none w-full  md:placeholder:text-lg max-sm:text-sm font-ds font-medium rounded-lg text-[#7E7E7E] cursor-pointer">
                         # Meals
                       </span>
                       <span className=" pointer-events-none absolute inset-y-0 right-0 flex items-center bg-white px-2">
@@ -169,7 +169,7 @@ function Main() {
                       className="relative w-full cursor-pointer text-left max-md:p-1 py-[15px] px-4 border rounded-lg overflow-hidden border-[#BEBEBE]"
                       type="button"
                     >
-                      <span className="block truncate outline-none w-full  md:placeholder:text-lg max-sm:text-sm font-dm-sans font-medium rounded-lg text-[#7E7E7E] cursor-pointer">
+                      <span className="block truncate outline-none w-full  md:placeholder:text-lg max-sm:text-sm font-ds font-medium rounded-lg text-[#7E7E7E] cursor-pointer">
                         Select your school
                       </span>
                       <span className="pointer-events-none absolute inset-y-0 right-0 flex items-center bg-white px-2">
@@ -192,7 +192,7 @@ function Main() {
                       className="relative w-full cursor-pointer text-left max-md:p-1 py-[15px] px-4 border rounded-lg overflow-hidden border-[#BEBEBE]"
                       type="button"
                     >
-                      <span className="block truncate outline-none w-full  md:placeholder:text-lg max-sm:text-sm font-dm-sans font-medium rounded-lg text-[#7E7E7E] cursor-pointer">
+                      <span className="block truncate outline-none w-full  md:placeholder:text-lg max-sm:text-sm font-ds font-medium rounded-lg text-[#7E7E7E] cursor-pointer">
                         Select location
                       </span>
                       <span className=" pointer-events-none absolute inset-y-0 right-0 flex items-center bg-white px-2">

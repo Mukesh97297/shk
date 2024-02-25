@@ -24,11 +24,11 @@ function Footer() {
               </Link>
             </div>
             <div className='flex flex-col sm:flex-row gap-4 sm:gap-10 text-[#FFFFFF]'>
-              <Link href="/" className='opacity-70 duration-200 hover:opacity-100 text-base leading-[110%] font-dm-sans mb-4 sm:mb-0'>How it works?</Link>
-              <Link href="/" className='opacity-70 duration-200 hover:opacity-100 text-base leading-[110%] font-dm-sans'>Privacy</Link>
+              <Link href="/" className='opacity-70 duration-200 hover:opacity-100 text-base leading-[110%] font-ds mb-4 sm:mb-0'>How it works?</Link>
+              <Link href="/" className='opacity-70 duration-200 hover:opacity-100 text-base leading-[110%] font-ds'>Privacy</Link>
             </div>
           </div>
-          <p className='text-base leading-[110%] font-dm-sans text-white text-center opacity-70 py-4'>© Eatsumn</p>
+          <p className='text-base leading-[110%] font-ds text-white text-center opacity-70 py-4'>© Eatsumn</p>
         </div>
       </div>
     </div>

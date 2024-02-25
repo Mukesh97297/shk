@@ -22,7 +22,7 @@ function Works() {
               How We Automate Your{" "}
               <span className=" xl:block">Meal Planning</span>
             </h3>
-            <p className="max-w-[580px] font-dm-sans max-md:text-base py-2 text-[#4E4E4E] ">
+            <p className="max-w-[580px] font-ds max-md:text-base py-2 text-[#4E4E4E] ">
               Eat This Much creates personalized meal plans based on your food
               preferences, budget, and schedule. Reach your diet and nutritional
               goals with our calorie calculator, weekly meal plans, grocery
@@ -99,7 +99,7 @@ function Works() {
             <h1 className="text-5xl max-md:text-3xl font-atma font-bold">
               Our Features
             </h1>
-            <p className="max-w-[650px] font-normal max-md:max-w-[380px] mt-4 font-dm-sans max-md:text-base text-[#4E4E4E] text-center ">
+            <p className="max-w-[650px] font-normal max-md:max-w-[380px] mt-4 font-ds max-md:text-base text-[#4E4E4E] text-center ">
               Eat This Much creates personalized meal plans based on your food
               preferences, budget, and schedule. Reach your diet and nutritional
               goals with our calorie calculator, weekly meal plans, grocery
@@ -119,7 +119,7 @@ function Works() {
                     Meal Prep Scheduling
                   </h2>
                 </div>
-                <p className="text-[#4E4E4E] max-md:text-center text-base font-dm-sans max-md:text-base">
+                <p className="text-[#4E4E4E] max-md:text-center text-base font-ds max-md:text-base">
                   A tool that helps students schedule their meal preparation
                   throughout the week. It could integrate with digital calendars
                   and provide reminders for meal prep times.
@@ -138,7 +138,7 @@ function Works() {
                     AI-optimized Nutrition
                   </h2>
                 </div>
-                <p className="text-[#4E4E4E] max-md:text-center text-base font-dm-sans max-md:text-base">
+                <p className="text-[#4E4E4E] max-md:text-center text-base font-ds max-md:text-base">
                   Your calorie and macronutrient requirements will automatically
                   adjust over time based on how {`you\re`} progressing toward
                   your weight goal, ensuring that your meal plan.
@@ -157,7 +157,7 @@ function Works() {
                     Personalized Meal Plan
                   </h2>
                 </div>
-                <p className="text-[#4E4E4E] max-md:text-center text-base font-dm-sans max-md:text-base">
+                <p className="text-[#4E4E4E] max-md:text-center text-base font-ds max-md:text-base">
                   Based on your school{``}s menu and your personal preferences,
                   receive a weekly meal plan. This plan balances {`What's`}{" "}
                   offered at school with additional meal suggestions
@@ -181,7 +181,7 @@ function Works() {
               <h1 className="text-5xl max-md:text-3xl font-atma font-bold">
                 What our client says
               </h1>
-              <p className="max-w-[588px] text-base leading-[150%] max-md:max-w-[380px] max-md:mt-2 md:mt-4 font-dm-sans text-[#4E4E4E] text-center">
+              <p className="max-w-[588px] text-base leading-[150%] max-md:max-w-[380px] max-md:mt-2 md:mt-4 font-ds text-[#4E4E4E] text-center">
                 Trusted SEO Agency In BrisbaneWork with Paul Napper and outsmart
                 your competitors to the top of Google with an SEO strategy
                 (without the BS).
@@ -211,7 +211,7 @@ function Works() {
                 <p className=" max-md:text-lg text-xl leading-[160%] font-semibold font-atma">
                   Mind-blowing Services
                 </p>
-                <p className="font-dm-sans max-md:text-base leading-[167%] text-[#424242]">
+                <p className="font-ds max-md:text-base leading-[167%] text-[#424242]">
                   Viverra vel vitae libero iaculis. Tellus vel volutpat sem sit
                   egestas aliquam. Pharetra dictum volutpat non velit lorem
                   vitae amet.
@@ -221,7 +221,7 @@ function Works() {
                     <h1 className="text-lg max-md:text-base leading-[167%] font-semibold font-atma">
                       Elezabeth Sarian
                     </h1>
-                    <p className="text-[#424242] max-md:text-sm leading-[142%] mt-[5px] font-dm-sans text-sm">
+                    <p className="text-[#424242] max-md:text-sm leading-[142%] mt-[5px] font-ds text-sm">
                       Student at University of Connecticut
                     </p>
                   </div>
@@ -247,7 +247,7 @@ function Works() {
                 <p className=" max-md:text-lg text-xl leading-[160%] font-semibold font-atma">
                   Mind-blowing Services
                 </p>
-                <p className="font-dm-sans max-md:text-base leading-[167%] text-[#424242]">
+                <p className="font-ds max-md:text-base leading-[167%] text-[#424242]">
                   Viverra vel vitae libero iaculis. Tellus vel volutpat sem sit
                   egestas aliquam. Pharetra dictum volutpat non velit lorem
                   vitae amet.
@@ -257,7 +257,7 @@ function Works() {
                     <h1 className="text-lg max-md:text-base leading-[167%] font-semibold font-atma">
                       Elezabeth Sarian
                     </h1>
-                    <p className="text-[#424242] max-md:text-sm leading-[142%] mt-[5px] font-dm-sans text-sm">
+                    <p className="text-[#424242] max-md:text-sm leading-[142%] mt-[5px] font-ds text-sm">
                       Student at University of Connecticut
                     </p>
                   </div>
@@ -283,7 +283,7 @@ function Works() {
                 <p className=" max-md:text-lg text-xl leading-[160%] font-semibold font-atma">
                   Mind-blowing Services
                 </p>
-                <p className="font-dm-sans max-md:text-base leading-[167%] text-[#424242]">
+                <p className="font-ds max-md:text-base leading-[167%] text-[#424242]">
                   Viverra vel vitae libero iaculis. Tellus vel volutpat sem sit
                   egestas aliquam. Pharetra dictum volutpat non velit lorem
                   vitae amet.
@@ -293,7 +293,7 @@ function Works() {
                     <h1 className="text-lg max-md:text-base leading-[167%] font-semibold font-atma">
                       Elezabeth Sarian
                     </h1>
-                    <p className="text-[#424242] max-md:text-sm leading-[142%] mt-[5px] font-dm-sans text-sm">
+                    <p className="text-[#424242] max-md:text-sm leading-[142%] mt-[5px] font-ds text-sm">
                       Student at University of Connecticut
                     </p>
                   </div>
@@ -310,7 +310,7 @@ function Works() {
               Receive Your <br />
               Personalized Meal Plan
             </h1>
-            <p className="text-[#4E4E4E] font-dm-sans max-md:text-base text-base leading-[150%]">
+            <p className="text-[#4E4E4E] font-ds max-md:text-base text-base leading-[150%]">
               Based on your {`school\s`} menu and your personal preferences,
               receive a weekly meal plan. This plan balances{`What's`} offered
               at school with additional meal suggestions to ensure nutritional
