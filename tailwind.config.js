@@ -13,9 +13,12 @@ module.exports = {
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
       },
       fontFamily: {
-        atma: ['Atma'],
-        'dm-sans': ['DM Sans', 'sans-serif'],
-        
+        atma: ["Atma"],
+        // metropolis: ["Metropolis-regular"],
+        // metropolis_medium: ["Metropolis-Medium"],
+        // metropolis_semibold: ["Metropolis-SemiBold"],
+        ds: ["DM Sans", "sans-serif"],
+        // carter: ["Carter One", "sans-serif"],
       },
     },
   },
