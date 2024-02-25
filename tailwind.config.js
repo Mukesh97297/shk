@@ -20,6 +20,7 @@ module.exports = {
         ds: ["DM Sans", "sans-serif"],
         // carter: ["Carter One", "sans-serif"],
       },
+      
     },
   },
   plugins: [],

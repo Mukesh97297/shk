@@ -49,7 +49,7 @@ function Main() {
               src="/images/—Pngtree—western food_4652092 1.png"
               width={300}
               height={400}
-              className="max-md:w-[80px] md:block hidden"
+              className="max-md:w-[80px]"
               alt=""
             />
           </div>
@@ -61,7 +61,7 @@ function Main() {
             alt=""
           />
         
-        <div className="flex absolute   flex-col max-md:gap-4 gap-6 w-full items-center justify-center top-8 md:top-28 ">
+        <div className="flex absolute   flex-col max-md:gap-4 gap-6 w-full items-center justify-center top-16 md:top-28 ">
           
             <h1 className=" 2xl:text-[4vw] lg:text-[5vw] xl:text-[72px] leading-none max-md:text-[40px] max-lg:text-[50px] font-atma text-center font-extrabold">
               Put your diet on <br />
@@ -89,7 +89,7 @@ function Main() {
               {foodPreferences.map((item, index) => (
                 <div
                   key={index}
-                  className=" max-sm:w-[31.5%] w-[15.45%] h-[110px] max-sm:h-[55px] cursor-pointer justify-center rounded-lg border border-gray-300 py-4 flex flex-col items-center"
+                  className=" max-sm:w-[35%]  w-[15.45%] h-[110px] max-sm:h-[55px] cursor-pointer justify-center rounded-lg border border-gray-300 py-4 flex flex-col items-center"
                 >
                   <Image
                     src={item.image}

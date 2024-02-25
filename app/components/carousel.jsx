@@ -25,7 +25,7 @@ function Carousel2() {
   ];
 
   return (
-    <div className="">
+    <div className=" overflow-hidden">
       <Carousel slides={slides} />
     </div>
   );
